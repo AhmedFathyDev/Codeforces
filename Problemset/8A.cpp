@@ -1,10 +1,3 @@
-
-# Problem 8A
-### [Back ⬅️](README.md)
-
-## **C++** solution
-
-```cpp
 #include <iostream>
 #include <algorithm>
 
@@ -70,4 +63,3 @@ int main(void)
 
     return EXIT_SUCCESS;
 }
-```

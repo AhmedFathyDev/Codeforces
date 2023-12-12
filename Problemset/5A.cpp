@@ -1,10 +1,3 @@
-
-# Problem 5A
-### [Back ⬅️](README.md)
-
-## **C++** solution
-
-```cpp
 #include <vector>
 #include <iostream>
 
@@ -43,7 +36,6 @@ int main(void)
 			b += l * p;
 		}
 	}
-	
+
 	std::cout << b;
 }
-```

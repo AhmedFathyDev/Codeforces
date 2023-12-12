@@ -1,10 +1,3 @@
-
-# Problem 10A
-### [Back ⬅️](README.md)
-
-## **C++** solution
-
-```cpp
 #include <iostream>
 
 #define MIN(X, Y) ((X) > (Y) ? (Y) : (X))
@@ -52,4 +45,3 @@ int main(void)
 
     return EXIT_SUCCESS;
 }
-```

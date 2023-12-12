@@ -1,10 +1,3 @@
-
-# Problem 6A
-### [Back ⬅️](README.md)
-
-## **C** solution
-
-```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -45,4 +38,3 @@ int main(void)
     printf(seg ? "SEGMENT" : "IMPOSSIBLE");
     return EXIT_SUCCESS;
 }
-```

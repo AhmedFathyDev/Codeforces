@@ -1,10 +1,3 @@
-
-# Problem 2A
-### [Back ⬅️](README.md)
-
-## **C++** solution
-
-```cpp
 #include <set>
 #include <map>
 #include <vector>
@@ -72,4 +65,3 @@ int main(void)
 
     return EXIT_SUCCESS;
 }
-```

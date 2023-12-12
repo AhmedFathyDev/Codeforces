@@ -1,10 +1,3 @@
-
-# Problem 3A
-### [Back ⬅️](README.md)
-
-## **C++** solution
-
-```cpp
 #include <vector>
 #include <iostream>
 
@@ -93,4 +86,3 @@ int main(void)
 
     return EXIT_SUCCESS;
 }
-```

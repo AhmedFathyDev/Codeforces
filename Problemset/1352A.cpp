@@ -1,10 +1,3 @@
-
-# Problem 1352A
-### [Back ⬅️](README.md)
-
-## **C++** solution
-
-```cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -58,4 +51,3 @@ int main(void)
 
     return EXIT_SUCCESS;
 }
-```
